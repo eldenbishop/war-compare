@@ -8,7 +8,7 @@ This tool only works with applications that support JSP files.
 
 ## Installation ##
 
-Just drop md5.jsp into the root directory of your web application.
+Just drop war-compare.jsp into the root directory of your web applications and navigate to the JSP. To compare two different running WARs just enter the path to the JSP in the other WAR.
 
 ## Security (optional) ##
 
