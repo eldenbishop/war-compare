@@ -1,6 +1,8 @@
 # war-compare #
 
 An extermely simple single file drop-in that allows two WAR applications to dynamically compare themselves at runtime.
+This is done via direct communication between running applications, no access to the file system of either machine is
+required.
 
 Say you are testing a Java web application, what version is it? What is different from the one running in QA?
 What files, classes or jars have changed? A visual tree browser lets you drill down to find the exact files that
