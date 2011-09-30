@@ -28,3 +28,7 @@ Security is documented inside the JSP. A sample properties file is included in t
 ## Future ##
 
 Add servlet support for containers/projects that do not use JSP.
+
+## Keywords ##
+
+Java, JSP, WAR, web application, compare, md5, hash, version, versioning
