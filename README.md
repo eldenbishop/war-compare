@@ -14,7 +14,7 @@ Just drop md5.jsp into the root directory of your web applications and navigate 
 
 ## Security (optional) ##
 
-TODO
+Security is documented inside the JSP. A sample properties file is included in the project.
 
 ## Future ##
 
