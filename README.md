@@ -10,7 +10,12 @@ This tool only works with applications that support JSP files.
 
 ## Installation ##
 
-Just drop md5.jsp into the root directory of your web applications and navigate to the JSP. To compare two different running WARs just enter the path to the JSP in the other WAR.
+Just drop md5.jsp into the root directory of your web applications and navigate to the JSP.
+
+## Usage ##
+
+Simply navigate to the JSP. Once there, enter a path to another md5.jsp. The two files will communicate with each other,
+allowing visual navigation of both file trees along with MD5 hashing for realtime diffs.
 
 ## Security (optional) ##
 
