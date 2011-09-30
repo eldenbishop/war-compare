@@ -23,4 +23,4 @@ Security is documented inside the JSP. A sample properties file is included in t
 
 ## Future ##
 
-Add servlet support.
+Add servlet support for containers/projects that do not use JSP.
