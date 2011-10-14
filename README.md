@@ -1,7 +1,5 @@
 # war-compare #
 
-(This message exists only in the Staging branch)
-
 An extermely simple single file drop-in that allows two WAR applications to dynamically compare themselves at runtime.
 This is done via direct communication between running applications, no access to the file system of either machine is
 required.
